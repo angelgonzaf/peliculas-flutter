@@ -4,8 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
 This app uses the database TheMovieDB for getting updated data of films. You have to register and get and API KEY in https://developers.themoviedb.org/3/getting-started/introduction , then paste it in providers/movies_provider.dart so that the app will work properly.
 
 A few resources to get you started if this is your first Flutter project:
